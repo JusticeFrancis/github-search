@@ -1,7 +1,22 @@
-# Aplicação para buscar perfis do GitHub
+# Github search
 
-Nesta aplicação está sendo consumida a API do próprio GitHub para buscar um perfil, é necessário apenas inserir o username e pronto! já irá mostrar os detalhes de seu perfil e também seus repositórios
+A nicer version to view your GitHub profile, includes data visualization, repositories, sharing and more.
 
-# Como rodar
+# clone repo
 
-Para rodar a aplicação, clone o repositório e dê um "yarn" para instalar as dependências. Em seguida rode o "yarn start" e acesse o localhost:3000.
+git clone https://github.com/JusticeFrancis/github-search/
+
+# install dependencies
+
+yarn install
+
+# start server
+
+yarn start
+
+# run
+https://localhost:3000
+
+# you have issues or want to hire me
+
+https://techkrab.me
